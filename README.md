@@ -1,14 +1,14 @@
 # Project
 
 Web Design Project<br>  
-Create a website with a certain theme (e.g. Bakery, Movies, Personal Portfolio, etc) based on the following requirements without sacrificing aesthetics!<br>  
+Create a website with a certain theme (e.g. Bakery, Movies, Personal Portfolio, etc) based on the following requirements without sacrificing aesthetics!
 Minimum 5 different pages (5 different HTML files), and all of them must be interconnected with each other. Frame usage is a must and the 5 pages must be in the main/master frame and excluded from navigation and other parts.<br>
 
 Minimum of 5 CSS properties for each of the following. You must use all three methods of using CSS (inline, style tag, and separate files) in the project!<br>  
 1.Background Properties<br>  
 2.Text and Font Properties<br>  
 3.Dimension Properties<br>  
-4.Positioning Properties<br>  
+4.Positioning Properties<br>
 
 There must be at least one set of form and validation in one page consisting of<br>  
 1.Text Input<br>  
